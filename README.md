@@ -13,8 +13,6 @@
 
 ```text
 .
-├── paper-reading-motivation-router/
-│   └── SKILL.md
 ├── 01-field-map/
 │   └── SKILL.md
 ├── 02-research-question/
@@ -43,7 +41,7 @@
 
 ## 使用方式
 
-阅读开始前，优先触发 `paper-reading-motivation-router`。它负责通过简短提问判断当前阅读动机，并把阅读任务路由到对应的动机 skill。
+阅读开始前，先用一两个问题明确当前阅读动机，再直接选择对应编号的动机 skill。若动机还不清楚，可以先对照下方“阅读动机”表格判断：这次阅读最需要产出什么，以及读到什么程度就可以停。
 
 后续每个动机 skill 会逐步补充：
 
